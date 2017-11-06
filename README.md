@@ -1,3 +1,10 @@
+## 创建我的个人博客网站
+1. 创建一个github账号
+2. 创建一个仓库
+3. 设置github pages
+4. 安装hexo博客框架
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wanglei8100/share_blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
